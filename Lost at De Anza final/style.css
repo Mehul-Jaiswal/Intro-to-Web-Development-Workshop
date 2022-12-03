@@ -1,0 +1,36 @@
+body {
+    /* FILL IN HERE */
+    background-image: url(background.jpeg);
+    background-size: cover;
+    color: rgba(38, 48, 168, 0.514);
+    background-attachment: fixed;
+}
+
+label {
+    padding-right: 10px;
+    position: relative;
+}
+
+button {
+    /* FILL IN HERE */
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.mainpage {
+    /* FILL IN HERE */
+    margin-top: 15%;
+    margin-left: 20%;
+}
+
+.query-form {
+    position: relative;
+    margin-top: 50px
+}
+
+.form-inputs {
+    margin-top: 15px;
+    position: relative;
+    align-items: center;
+    padding-right: 10px;
+}
